@@ -12,7 +12,7 @@
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000?style=flat-square&logo=vercel)](https://vercel.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-**[🔴 Live Demo](truth-lens-mu.vercel.app)** · **[🐛 Report Bug](https://github.com/Snehar273/TruthLens/issues)**
+**[🔴 Live Demo](https://truth-lens-mu.vercel.app)** · **[🐛 Report Bug](https://github.com/Snehar273/TruthLens/issues)**
 
 <br/>
 
